@@ -1,10 +1,11 @@
 1ebbd3e34237af26da5dc08a4e440464 *COPYING
-dabb43dda11fb2375cca20167c0d83d9 *DESCRIPTION
+6dac130196a6ff18c03e91a0d48d112d *DESCRIPTION
 f3d44e252a8d2ca1a619acd73fe018e6 *NAMESPACE
 3e2f979a9bec6ba3539e6adfa20230be *R/extract_features.R
-a11c723377723c27ad54e753fa41ec24 *R/features.R
+8166d543313d50f9e2e3642a004af5e8 *R/features.R
 9b90dbc7a533e7863c0ecd8e891632eb *R/parameters.R
 923645d6630a556e556f8003aca0eba3 *R/paws.R
+df6cc46bc7fae1a55b713f3d5065b35a *R/pawscore-package.R
 741b2f4127e8a8a10223f390627acbed *R/score.R
 5b76b447b319bb6ad4b3f519d7001f38 *R/standards.R
 c9274823d2229de2799f1fb6292212f3 *R/sysdata.rda
@@ -24,5 +25,6 @@ d66f5fe85cd3ae31c92f26d9d85cda18 *man/figures/figure4I.svg
 ff83dbdb410dad3e1216e36a9b6a5538 *man/jones2020.tracks.Rd
 3e2abd2bc4930c09c593f2e7055812fe *man/pain_class.Rd
 eff5d0ae164c3aca0ca71c8a109d1553 *man/pain_score.Rd
+0af675b6da026b33ca3fda8dcb7df1f1 *man/pawscore-package.Rd
 4a9ef61100d2d68af06876623cf0e22a *man/pawsscore.Rd
 eddeb5f35bb36e86da81fe6b7aadecad *man/set_parameters.Rd
